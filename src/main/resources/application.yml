@@ -3,3 +3,8 @@ spring:
   data:
     mongodb:
       uri: "mongodb://localhost:27017/reactive"
+  datasource:
+    tomcat:
+      initial-size: 1000
+      max-wait: 20000
+      max-active: 5000

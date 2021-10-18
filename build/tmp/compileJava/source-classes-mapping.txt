@@ -6,7 +6,7 @@ uk/santander/Account.java
  uk.santander.Account
 uk/santander/MongoReactiveConfiguration.java
  uk.santander.MongoReactiveConfiguration
-uk/santander/Controller.java
- uk.santander.Controller
 uk/santander/AppConfig.java
  uk.santander.AppConfig
+uk/santander/Controller.java
+ uk.santander.Controller
